@@ -41,8 +41,9 @@ I'm Niyonkuru Bertin, a passionate Full Stack Developer with a strong focus on J
 ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?logo=circleci&logoColor=white)
 
 ## Notable Projects
-- **E-commerce Platform**: A scalable web app built with React, TypeScript, and PostgreSQL.
-- **DevPulse (Andela Project)**: Developed the invitation feature with TypeScript and GraphQL.
+- **[E-commerce Platform](https://github.com/atlp-rwanda/eagles-ec-be)**: A scalable web app built with React, TypeScript, and PostgreSQL.
+- **[Portfolio](https://github.com/niyobertin/my-p0rtifolio)**: A scalable web app built with React, TypeScript, and PostgreSQL.
+- **[DevPulse (Andela Project)](https://github.com/atlp-rwanda/atlp-pulse-bn)**: Developed the invitation feature with TypeScript, GraphQL and MOongoDb.
 
 ## What I'm Currently Learning 📚
 
