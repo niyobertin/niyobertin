@@ -45,12 +45,6 @@ I'm Niyonkuru Bertin, a passionate Full Stack Developer with a strong focus on J
 - **[Portfolio](https://github.com/niyobertin/my-p0rtifolio)**: A scalable web app built with React, TypeScript, and PostgreSQL.
 - **[DevPulse (Andela Project)](https://github.com/atlp-rwanda/atlp-pulse-bn)**: Developed the invitation feature with TypeScript, GraphQL and MOongoDb.
 
-## What I'm Currently Learning 📚
-
-- Microservices architecture with Docker and Kubernetes
-- Advanced GraphQL techniques for efficient API development
-- Blockchain technologies and their integration with web apps
-
 ## Get In Touch
 - [LinkedIn](https://www.linkedin.com/in/niyonkuru-bertin-35438a240/)
 - [Email](mailto:niyonkurubbertin@gmail.com)
