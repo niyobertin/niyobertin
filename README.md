@@ -27,9 +27,7 @@ I don't just write code — I build **products that work in real environments**.
 - 🏫 **Smart School Rwanda**  
   → Multi-tenant school system with RBAC & academic workflows  
 - 📊 **AskField (Survey Platform)**  
-  → Replacing Supabase with a fully custom backend  
-- 🧠 **VillageDeals**  
-  → AI-powered business insights for traders  
+  → Replacing Supabase with a fully custom backend   
 
 ---
 
